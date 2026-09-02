@@ -21,7 +21,7 @@ This project was built to gain hands-on experience with low-level computer archi
 ### Running a game
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/CHIP-8vm.git](https://github.com/yourusername/CHIP-8vm.git)
+   git clone [github.com/z3dn1k/CHIP-8-VM]
    cd CHIP-8vm
    ```
 2. Place your chosen ROM file in the root directory (next to `Cargo.toml`).
